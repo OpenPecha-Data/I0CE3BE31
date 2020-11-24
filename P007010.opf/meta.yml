@@ -3,5 +3,47 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1017093
   title: པདྨ་གླིང་པའི་གཏེར་སྐོར
-  volume: ''
+  volume:
+    27e400d6822348a6bc5010246a0acd0d:
+      image_group_id: I00EGS1017095
+      title: Volume 1 of pad+ma gling pa'i gter skor
+      volume_number: 1
+      total_pages: 770
+    745613b8318d49b5a329a8227846a2f4:
+      image_group_id: I00EGS1017096
+      title: Volume 2 of pad+ma gling pa'i gter skor
+      volume_number: 2
+      total_pages: 444
+    07347c0e128441569a369a7426ff1ae7:
+      image_group_id: I00EGS1017097
+      title: Volume 3 of pad+ma gling pa'i gter skor
+      volume_number: 3
+      total_pages: 560
+    cbfa4c29fe1a4544943196de79db5bf7:
+      image_group_id: I00EGS1017098
+      title: Volume 4 of pad+ma gling pa'i gter skor
+      volume_number: 4
+      total_pages: 548
+    6959e63e86034a318f75c6ba30327bc1:
+      image_group_id: I00EGS1017099
+      title: Volume 5 of pad+ma gling pa'i gter skor
+      volume_number: 5
+      total_pages: 522
+    f058848eda35476a91dc70fdfef1a7a5:
+      image_group_id: I00EGS1017100
+      title: Volume 6 of pad+ma gling pa'i gter skor
+      volume_number: 6
+      total_pages: 516
+    9a97d4766ac54ad88d11e45205f96929:
+      image_group_id: I00EGS1017101
+      title: Volume 7 of pad+ma gling pa'i gter skor
+      volume_number: 7
+      total_pages: 468
   author: ''
+ebook_metadata:
+  title: པདྨ་གླིང་པའི་གཏེར་སྐོར
+  author: ''
+  sku: P007010
+  cover: cover.jpg
+  layers:
+  - pagination
