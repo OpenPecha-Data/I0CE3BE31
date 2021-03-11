@@ -5,41 +5,48 @@ source_metadata:
   title: པདྨ་གླིང་པའི་གཏེར་སྐོར
   author: ''
   volumes:
-    008a5c88d21b46198cde152cb0e9a4d5:
+    27e400d6822348a6bc5010246a0acd0d:
       image_group_id: I00EGS1017095
-      title: ''
+      title: Volume 1 of pad+ma gling pa'i gter skor
       volume_number: 1
       total_pages: 770
-    2a2b117c5bb0497c8331663baa1813d7:
+      base_file: v001.txt
+    745613b8318d49b5a329a8227846a2f4:
       image_group_id: I00EGS1017096
-      title: ''
+      title: Volume 2 of pad+ma gling pa'i gter skor
       volume_number: 2
       total_pages: 444
-    92218f3ea95941628388ecb9755e8496:
+      base_file: v002.txt
+    07347c0e128441569a369a7426ff1ae7:
       image_group_id: I00EGS1017097
-      title: ''
+      title: Volume 3 of pad+ma gling pa'i gter skor
       volume_number: 3
       total_pages: 560
-    bece4db2533341dfae05b612cc161b0d:
+      base_file: v003.txt
+    cbfa4c29fe1a4544943196de79db5bf7:
       image_group_id: I00EGS1017098
-      title: ''
+      title: Volume 4 of pad+ma gling pa'i gter skor
       volume_number: 4
       total_pages: 548
-    ae65059ab1a34b21884ea8d1501a3739:
+      base_file: v004.txt
+    6959e63e86034a318f75c6ba30327bc1:
       image_group_id: I00EGS1017099
-      title: ''
+      title: Volume 5 of pad+ma gling pa'i gter skor
       volume_number: 5
       total_pages: 522
-    6e519795c5c3468680cef2eb53a9dd76:
+      base_file: v005.txt
+    f058848eda35476a91dc70fdfef1a7a5:
       image_group_id: I00EGS1017100
-      title: ''
+      title: Volume 6 of pad+ma gling pa'i gter skor
       volume_number: 6
       total_pages: 516
-    ecd130c24f7241f0b2f92c41a4d03a28:
+      base_file: v006.txt
+    9a97d4766ac54ad88d11e45205f96929:
       image_group_id: I00EGS1017101
-      title: ''
+      title: Volume 7 of pad+ma gling pa'i gter skor
       volume_number: 7
       total_pages: 468
+      base_file: v007.txt
 ebook_metadata:
   title: པདྨ་གླིང་པའི་གཏེར་སྐོར
   author: ''
